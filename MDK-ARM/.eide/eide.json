@@ -208,7 +208,8 @@
           "../Drivers/CMSIS/Include",
           ".cmsis/include",
           "RTE/_PE43703",
-          ".eide/deps"
+          ".eide/deps",
+          "../Drivers/PE43703_serial"
         ],
         "libList": [],
         "sourceDirList": [],
