@@ -23,6 +23,7 @@
 "pe43703\stm32h7xx_hal_tim.o"
 "pe43703\stm32h7xx_hal_tim_ex.o"
 "pe43703\system_stm32h7xx.o"
+"pe43703\pe43703.o"
 --strict --scatter "PE43703\PE43703.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers

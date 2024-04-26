@@ -1,5 +1,5 @@
-pe43703/stm32h7xx_hal_mdma.o: \
-  ..\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_mdma.c \
+pe43703/pe43703.o: ..\Drivers\PE43703_serial\pe43703.c \
+  ..\Drivers\PE43703_serial\pe43703.h ..\Core\Inc\main.h \
   ..\Drivers\STM32H7xx_HAL_Driver\Inc\stm32h7xx_hal.h \
   ..\Core\Inc\stm32h7xx_hal_conf.h \
   ..\Drivers\STM32H7xx_HAL_Driver\Inc\stm32h7xx_hal_rcc.h \
