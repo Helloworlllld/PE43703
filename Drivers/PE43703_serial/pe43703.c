@@ -5,7 +5,7 @@
  * @brief   pe43703程控衰减器驱动
  * @version 0.1
  * @date    2024-04-25
- *
+ * @note    引脚分别为PE_CLK,PE_DATA,PE_PS,PE_LE,CubeMX中配置
  *
  */
 
