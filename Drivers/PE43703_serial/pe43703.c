@@ -20,7 +20,7 @@ void delay_n(uint32_t nus)
 {
     uint32_t i;
     for (i = 0; i < nus; i++)
-        __nop();
+        __nop();    //空操作,避免编译器优化
 }
 
 /**
